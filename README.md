@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🎓 &nbsp;I'm currently studying Computer Science at BUPT.\
 🌱 &nbsp;I’m currently learning Java.\
-✍️ &nbsp;You can learn more about me through my [blog](http://lishuaiyun.cn/).\
+✍️ &nbsp;You can learn more about me through my [blog](http://lishuaiyun.cn/).
 
 <img alt="Night Coding" src="http://hexo-bolg-image.oss-cn-beijing.aliyuncs.com/img/Night-Coding.gif" align="right"/>
 
