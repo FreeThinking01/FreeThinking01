@@ -14,28 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-package main
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm FreeThinking</h2>
 
-import (
-	"fmt"
-)
+<!-- ## 👋 &nbsp;Hey there! I'm FreeThinking -->
 
-type Bio map[string]string
+### 👨🏻‍💻 &nbsp;About Me
 
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
+🎓 &nbsp;I'm currently studying Computer Science at BUPT.\
+🌱 &nbsp;I’m currently learning Java.\
+✍️ &nbsp;You can learn more about me through my [blog](http://lishuaiyun.cn/).\
 
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Quick bio:":                    "A kind of metalHead-melomaniac-gearAddict-amateurMusician-traveler-foodLover-gamer-coder-programmer-catLover-sportsAficionado hybrid",
-		"- 🔭 I’m currently working on":      "Tredicom as a Senior Software Developer --- UAdeC as a Part Time Teacher",
-		"- 🌱 I’m currently learning":        "Golang, MongoDB, RabbitMQ, K8s, GCP (Tech stack from my company) --- Sharpening my Front End Skills for the MERN stack (Personal goal)",
-		"- 👯 I’m looking to collaborate on": "Python, Golang and Docker related projects",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Python, PHP, Laravel, SQL, Software Design & Architecture, Web-Dev and SEO",
-		"- 📫 How to reach me:":              "https://github.com/AnhellO#you-can-reach-me-at-alien",
-	}
-}
+<img alt="Night Coding" src="http://hexo-bolg-image.oss-cn-beijing.aliyuncs.com/img/Night-Coding.gif" align="right"/>
+
+
