@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>👋 &nbsp;Hey there! I'm FreeThinking</h2>
+<h2>👋 &nbsp;Hey there! I'm Shyun</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm FreeThinking -->
 
